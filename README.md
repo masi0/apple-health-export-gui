@@ -15,3 +15,5 @@ How to use it?
 10. select data range*, metrics and type of workouts
 
     *you need to know your dates range
+
+I don't take any responsibility how you process your data
